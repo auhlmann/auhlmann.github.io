@@ -1,25 +1,25 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Research Associate in <a href='https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis'>Cambridge Image Analysis</a>, University of Cambridge.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: me.jpg
+  image_circular: true # crops the image to make it circular
+  # more_info: >
+  #   <p>HG G 53.2</p><br>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Alex. I am a mathematician interested in developing methods for *messy* systems, where disorder, heterogeneity or incomplete observations challenge standard models and analysis. My background is in spectral theory, partial differential equations and operator theory, drawing on dynamical systems and probability. I am also interested in mathematical tools for understanding how models turn observations into conclusions, which features of the data those conclusions depend on, and how they change when the data are perturbed.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Postdoctoral Research Associate in the [Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) group at DAMTP, hosted by Prof. Carola-Bibiane Schönlieb. I work within the MakingAI project in technical art history, in collaboration with the Fitzwilliam Museum/Hamilton Kerr Institute and the McDonald Institute for Archaeological Research. The project brings together imaging data from paintings, ancient Egyptian coffins and pre-Hispanic ceramics. My role is to develop mathematical tools for aligning and combining these complementary measurements, helping heritage scientists investigate how objects were made and compare materials and techniques across collections.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Prior to Cambridge, I completed my PhD at ETH Zürich's [Seminar for Applied Mathematics](https://math.ethz.ch/sam) under the supervision of [Prof. Habib Ammari](https://people.math.ethz.ch/~hammari/). My research concerned the spectral properties of high-contrast metamaterials where classical assumptions of spatial periodicity or energy conservation are violated. I am also a contributor to the [subwavelength-physics](https://github.com/silvioba/subwavelength-physics/tree/main) package, which implements fast numerics for the subwavelength resonance problem in a variety of settings.
+
+Feel free to reach out: *aju27 [at] cam.ac.uk*.

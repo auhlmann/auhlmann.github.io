@@ -5,5 +5,22 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"TLMS":
+  url: https://londmathsoc.onlinelibrary.wiley.com/journal/20524986
+
+"Sigma":
+  url: https://www.cambridge.org/core/journals/forum-of-mathematics-sigma
+
+"RSPA":
+  url: https://royalsocietypublishing.org/journal/rspa
+  color: "#ba0c2f"
+
+
+"JPhysA":
+  url: https://iopscience.iop.org/journal/1751-8121
+
+"MMS":
+  url: https://epubs.siam.org/journal/mms
+
+"arXiv":
+  color: "#e75050"
